@@ -1,32 +1,32 @@
-.swipeButtons{
-    position: fixed;
-    bottom: 5vh;
-    display: flex;
-    width: 100%;
-    justify-content: space-evenly;
+.swipeButtons {
+  position: fixed;
+  bottom: 5vh;
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
 }
 
-.swipeButtons .MuiIconButton-root{
-    background-color: white;
-    box-shadow: 0px 10px 53px 0px rgba(0, 0, 0, 0.6) !important;
+.swipeButtons .MuiIconButton-root {
+  background-color: white;
+  box-shadow: 0px 10px 53px 0px rgba(0, 0, 0, 0.3) !important;
 }
-.sb_repeat{
-    padding: 3vw;
-    color: #f5b748 !important;
+.sb_repeat {
+  padding: 3vw !important;
+  color: #f5b748 !important;
 }
-.sb_left{
-    padding: 3vw !important;
-    color: #ec5e6f !important;
+.sb_left {
+  padding: 3vw !important;
+  color: #ec5e6f !important;
 }
-.sb_star{
-    padding: 3vw !important;
-    color: #62b4f9 !important;
+.sb_star {
+  padding: 3vw !important;
+  color: #62b4f9 !important;
 }
-.sb_right{
-    padding: 3vw !important;
-    color: #76e2b3 !important;
+.sb_right {
+  padding: 3vw !important;
+  color: #76e2b3 !important;
 }
-.sb_lightning{
-    padding: 3vw !important;
-    color: #951dd1 !important;
+.sb_lightning {
+  padding: 3vw !important;
+  color: #951dd1 !important;
 }

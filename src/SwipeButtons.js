@@ -11,19 +11,19 @@ function SwipeButtons() {
     return (
         <div className="swipeButtons">
             <IconButton className="sb_repeat">
-                <ReplayIcon size='large' />
+                <ReplayIcon fontSize='large' />
             </IconButton>
             <IconButton className="sb_left">
-                <CloseIcon size='large' />
+                <CloseIcon fontSize='large' />
             </IconButton>
             <IconButton className="sb_star">
-                <StarRateIcon size='large' />
+                <StarRateIcon fontSize='large' />
             </IconButton>
             <IconButton className="sb_right">
-                <FavoriteIcon size='large' />
+                <FavoriteIcon fontSize='large' />
             </IconButton>
             <IconButton className="sb_lightning">
-                <FlashOnIcon size='large' />
+                <FlashOnIcon fontSize='large' />
             </IconButton>
         </div>
     )
